@@ -1,0 +1,21 @@
+{
+  "name": "Nexus AI Terminal",
+  "short_name": "Nexus",
+  "description": "Professional AI Interface",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#050507",
+  "theme_color": "#050507",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
